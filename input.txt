@@ -1,0 +1,21 @@
+file 'monitor_pres_20221118_1724.pdf-01.png'
+duration 6
+file 'monitor_pres_20221118_1724.pdf-02.png'
+duration 6
+file 'monitor_pres_20221118_1724.pdf-03.png'
+duration 6
+file 'monitor_pres_20221118_1724.pdf-04.png'
+duration 6
+file 'monitor_pres_20221118_1724.pdf-05.png'
+duration 6
+file 'monitor_pres_20221118_1724.pdf-06.png'
+duration 6
+file 'monitor_pres_20221118_1724.pdf-07.png'
+duration 6
+file 'monitor_pres_20221118_1724.pdf-08.png'
+duration 6
+file 'monitor_pres_20221118_1724.pdf-09.png'
+duration 6
+file 'monitor_pres_20221118_1724.pdf-10.png'
+duration 6
+
